@@ -114,6 +114,7 @@ dependencies = [
     "soupsieve==2.6",
     "sqlalchemy==2.0.40",
     "stack-data==0.6.3",
+    "statsmodels>=0.14.6",
     "terminado==0.18.1",
     "thefuzz==0.22.1",
     "tinycss2==1.4.0",
