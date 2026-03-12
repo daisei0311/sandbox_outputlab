@@ -20,7 +20,7 @@ base_dir = Path(__file__).resolve().parent.parent
 CONFIG_FILE = base_dir / "util" / "config_2.yaml"
 
 print("================設定値読み込み================================")
-goki_extract = "4"
+goki_extract = "2"
 lookback_months = 4  # 「直近何ヶ月分」を取得するかを指定（3なら今月を含む過去3ヶ月）
 
 C_A = "正"
